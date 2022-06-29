@@ -1,3 +1,7 @@
-src/Properties/
-src/Views/
-src/wwwroot/
+src/Properties export-ignore
+src/Views export-ignore
+src/wwwroot export-ignore
+
+src/Properties/ export-ignore
+src/Views/ export-ignore
+src/wwwroot/ export-ignore
